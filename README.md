@@ -1,4 +1,4 @@
-Some utility methods for arrays
+Simple utility methods for arrays
 
 To build the package run
 
